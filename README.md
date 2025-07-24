@@ -1,2 +1,2 @@
 # Solar-based-smart-roof-from-unusual-rainfall-events-using-arduino
-This project aims to address the challenges faced by solar panel users during sudden or unusual rainfall events, which can affect the efficiency and safety of solar energy systems. We developed a smart roof mechanism controlled by Arduino that detects rainfall in real time and automatically activates a protective cover over solar panels
+This project aims to address the challenges faced by solar panel users during sudden or unusual rainfall events, which can affect the efficiency and safety of solar energy systems. We developed a smart roof mechanism controlled by Arduino that detects rainfall in real time and automatically activates a protective cover over solar panels, for farming
